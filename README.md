@@ -1,2 +1,14 @@
 # app-xk-resource
-HTML page archive and documentation
+
+页面内容归档仓库
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
